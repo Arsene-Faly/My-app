@@ -1,2 +1,4 @@
-service.html
-apropos.html
+__pycache__/
+*.pyc
+.venv
+db.sqlite3
